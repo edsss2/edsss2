@@ -5,7 +5,7 @@
 
 - 🎯 **Foco Principal:** Pretendo me tornar um Programador **Back-end** e continuar desenvolvendo com **Java**.
 - 💬 **Pergunte-me sobre:** **Java, Lógica, Linux e SQL.**
-- 💻 **Atualmente Aprendendo:** Aprofundamento em Java e Framework **Angular**.
+- 💻 **Atualmente Aprendendo:** Docker e Kubernetes, **Angular**.
 - 📫 **Como me encontrar:** **[<img src="https://devicon-website.vercel.app/api/linkedin/original.svg" alt="Edson | LinkedIn" height="20px">](https://www.linkedin.com/in/edson-sanchez/)**
 
 ---
@@ -78,6 +78,5 @@
 </p>
 
 ---
-Last Edited on: 03/10/2025
-
+Last Edited on: 11/10/20252
 *Baseado em um template de [Alex/VisualBean](https://github.com/VisualBean).*
